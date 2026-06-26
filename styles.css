@@ -1,0 +1,15 @@
+.center-header {
+    color: #17582086;
+    text-align: center;
+    font-style: italic;
+}
+.skill-container {
+    border: 6px solid rgb(140, 194, 210);
+    border-radius: 10px;
+    background-color: #b9d9e2;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}
